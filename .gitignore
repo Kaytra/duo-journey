@@ -1,0 +1,14 @@
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+*.zip
+*.meta
+
+build/
+build_old/
+library/
+.vs/
