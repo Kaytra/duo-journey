@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameMaster.unity
+    guid: f1a586d80f930e240a5e0f0df96c8d9b
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6407be9af40343543be32600023547c4
+  - enabled: 1
+    path: Assets/Scenes/TutorialLevel.unity
+    guid: 34061a9d4dda9e640a84eccc9932d85b
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel1_Acent_AJR.unity
+    guid: d3814410bc0ec814d912641b04d86353
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel2_MovingPlatform.unity
+    guid: 7628d5ac5014b144d981a328f7a84e2e
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel3_Forest_KMW.unity
+    guid: 00706948ab7777d429ff7f589cc6b802
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel_4.unity
+    guid: c2cde9f4c7746c14ca9d305eebf16807
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel5_Ruins.unity
+    guid: e3ca9c8218493d646b1acf0b9fc15fb3
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel6.unity
+    guid: 03373c36a698d42409f675b50318e192
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel7.unity
+    guid: f8994ba9218a3ce4ab57979a7f384b54
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel8.unity
+    guid: 42bc1cfa1869e1b4caa039ed4e488486
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel9_Acent_AJR.unity
+    guid: 8f79fc116fbfee54cb96e2e310a5ae66
+  - enabled: 1
+    path: Assets/Scenes/PrototypeLevel10_Dungeon_KMW.unity
+    guid: 2d74200522de1cc42ab57d0e196c317d
+  m_configObjects: {}

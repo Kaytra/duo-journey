@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Collectable
+  - knock
+  - FxTemporaire
+  - Cannon
+  - HoppingEnemy
+  - ClimbingEnemy
+  - Player Target
+  - Firefly
+  - Switch1
+  - Switch2
+  - Switch3
+  - Switch4
+  - Switch5
+  - ChargingEnemy
+  - BossWeakpoint
+  - BossBody
+  - mk1
+  - mk2
+  - mk3
+  - mk4
+  - Hinge
+  - DoorManager
+  - Master
+  - BouncePanel
+  - Phase_01
+  - Phase_02
+  - Phase_03
+  - Phase_04
+  - Phase_05
+  - PuzzleCamera
+  - CollectableManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - BossProjectile
+  - BossModel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
